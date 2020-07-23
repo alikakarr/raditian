@@ -179,9 +179,9 @@ client_and_work:
       is_even: true
 
 # testimonial
-testimonial:
-  enable: true
-  title: "Testimonials"
+#testimonial:
+  #enable: true
+  #title: "Testimonials"
   items:
     - name: "Daniel Jordan"
       position: "Phonet, CEO"
@@ -215,21 +215,21 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+92 123 456789"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    email: '<a href="mailto:contact@alikakar.art">contact@alikakar.art</a>'
+  #address:
+    #title: "Address"
+    #address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
 # newsletter
-newsletter:
-  enable: true
-  title: "Newsletter subscription"
+#newsletter:
+  #enable: true
+  #title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
   note: "We'll never share your email with anyone else."
