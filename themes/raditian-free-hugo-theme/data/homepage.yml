@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Ali Kakar."
   subtitle: "3D Generalist"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I work at <a target='_blank' href='https://khud.org/'>Khud</a>, as design instructor. Keep cool, stay in touch. <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -13,38 +13,38 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "#contact/"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/company/alikakarr/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: #"https://github.com/radity"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/alikakarr"
 
     - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+      URL: "https://dribbble.com/alikakar"
 
     - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+      URL: "https://www.behance.net/alikakar"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: #"https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com/alikakarr/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+      URL: #"https://www.facebook.com/raditycom/"
 
     - icon: "codepen"
       URL: "#"
 
     - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: #"https://www.yelp.com/"
 
 # about
 about:
