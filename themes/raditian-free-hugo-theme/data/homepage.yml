@@ -19,11 +19,11 @@ showcase:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/alikakarr/"
 
-    - icon: "github"
-      URL: #"https://github.com/radity"
+    #- icon: "github"
+      #URL: "https://github.com/"
 
     - icon: "twitter"
-      URL: "https://twitter.com/alikakarr"
+      URL: "https://twitter.com/alikakarrr"
 
     - icon: "dribbble"
       URL: "https://dribbble.com/alikakar"
@@ -31,34 +31,30 @@ showcase:
     - icon: "behance"
       URL: "https://www.behance.net/alikakar"
 
-    - icon: "youtube"
-      URL: #"https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+    #- icon: "youtube"
+      #URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/alikakarr/"
 
-    - icon: "facebook"
-      URL: #"https://www.facebook.com/raditycom/"
+    #- icon: "facebook"
+      #URL: "https://www.facebook.com/"
 
-    - icon: "codepen"
-      URL: "#"
+    #- icon: "codepen"
+      #URL: "#"
 
-    - icon: "yelp"
-      URL: #"https://www.yelp.com/"
+    #- icon: "yelp"
+      #URL: "https://www.yelp.com/"
 
 # about
 about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    My area of focus lies in 3d modeling,rigging, animation. I enjoy designing and animating the characters.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -85,7 +81,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Over 5+ years of experience working with companies from all over the world. I develop my skills in digital industury."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -110,72 +106,72 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Work"
   enable: true
 
   clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+    #- logo:
+    #    x: "img/clients/asgardia.png"
+    #    _2x: "img/clients/asgardia@2x.png"
+    #  alt: "Asgardia"
 
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+    #- logo:
+    #    x: "img/clients/earth-2.png"
+    #    _2x: "img/clients/earth-2@2x.png"
+    #  alt: "Earth 2.0"
 
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+    #- logo:
+    #    x: "img/clients/goldline.png"
+    #    _2x: "img/clients/goldline@2x.png"
+    #  alt: "Goldline"
 
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+    #- logo:
+    #    x: "img/clients/kanba.png"
+    #    _2x: "img/clients/kanba@2x.png"
+    #  alt: "Kanba"
 
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+    #- logo:
+    #    x: "img/clients/zoo-tv.png"
+    #    _2x: "img/clients/zoo-tv@2x.png"
+    #  alt: "Zoo"
 
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+    #- logo:
+    #    x: "img/clients/ztos.png"
+    #    _2x: "img/clients/ztos@2x.png"
+    #  alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "2D Design"
+      description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/2d.png"
+        _2x: "img/works/2d@2x.png"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "3D Design"
+      description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/3d.png"
+        _2x: "img/works/3d.png"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Animation"
+      description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/animation.png"
+        _2x: "img/works/animation.png"
       is_even: true
 
 # testimonial
@@ -215,7 +211,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+92 123 456789"
+    number: "+92 304 4948730 "
   email:
     title: "Email"
     email: '<a href="mailto:contact@alikakar.art">contact@alikakar.art</a>'
